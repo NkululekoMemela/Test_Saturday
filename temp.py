@@ -87,6 +87,9 @@ plt.savefig('../images/7_python_multiple_maps_300dpi.png', format='png',
 plt.close()
 
 
+# this is just to check-- check
+
+
 
 
 
